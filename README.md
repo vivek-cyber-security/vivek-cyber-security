@@ -11,7 +11,8 @@
 * 📈 Actively building hands-on projects on GitHub
 * 🎯 Goal: Become a SOC Analyst
 
----
+--
+
 
 ## 🛠 Skills
 
